@@ -1,0 +1,28 @@
+
+nav{
+  margin: 3em;
+  font-size: 1.5em;
+  background-color: #17202A;
+}
+a:link{
+  color: white;
+}
+a:visited{
+  Color:pink;
+}
+header{
+  font-size: 1.7em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+  background-color: #566573;
+}
+.image{
+  width: 25%;
+  float: right;
+}
+article{
+  font-size: 1.3em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
